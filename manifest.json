@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "locale": "en_US.UTF-8",
+  "metadata": {
+    "appmode": "python-streamlit",
+    "entrypoint": "app"
+  },
+  "python": {
+    "version": "3.8.15",
+    "package_manager": {
+      "name": "pip",
+      "version": "23.1.2",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "782aa3995caa33c2e47ea535bff5b6d0"
+    },
+    ".gitignore": {
+      "checksum": "0557d1db2d04aab4c2665d16172d6e71"
+    },
+    "README.md": {
+      "checksum": "7c3f44201952143e3ff940d29cc11900"
+    },
+    "app.py": {
+      "checksum": "bc7bb171774a2cfc5689f4888151f4b4"
+    },
+    "image.png": {
+      "checksum": "fbcc87f9a1214e7e92bca9ff12dbd136"
+    },
+    "streamlit-example.Rproj": {
+      "checksum": "c8d3f84a410f46d4d8b03a268e313e35"
+    },
+    "trauma.geojson": {
+      "checksum": "7557e5570373ad79a03b20ab9ab28f89"
+    }
+  }
+}
